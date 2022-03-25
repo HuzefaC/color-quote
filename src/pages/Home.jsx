@@ -26,7 +26,7 @@ export default function Home() {
           </Layout.Section>
           <Layout.Section>
             <FooterHelp>
-              <Link url='https://github.com/HuzefaC' external>
+              <Link url='https://github.com/HuzefaC/color-quote' external>
                 GitHub Repo
               </Link>
             </FooterHelp>
